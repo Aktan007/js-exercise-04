@@ -25,3 +25,4 @@ console.log(isPerfectSquare(0));
 
 
   export {reverseNumber, isPerfectSquare}
+  
